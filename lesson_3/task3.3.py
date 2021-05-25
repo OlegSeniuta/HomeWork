@@ -9,4 +9,3 @@ if name == user.lower():
     print('Hello ,', name.capitalize())
 else:
     print('Invalid input')
-
