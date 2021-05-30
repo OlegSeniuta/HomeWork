@@ -9,3 +9,4 @@ import random
 word = ('h', 'e', 'l', 'l', 'o')
 for i in word:
     print(''.join(random.sample(word, 5)))
+
