@@ -7,7 +7,7 @@ total = mt.fsum(value)
 user = input('What is sum of 4.28 and 8.01?\n')
 try:
     user1 = float(user)
-    count = 2
+    count = 3
     while count > 0 and user.isdigit() is True:
         count = count - 1
         if user1 != total:
