@@ -14,9 +14,3 @@ if user_input.isdigit():
         print('You guess is wrong')
 else:
     print('Wrong input format')
-
-
-
-
-
-
